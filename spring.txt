@@ -1,1 +1,2 @@
 Spring é um framework de Java.
+Java é legal.
